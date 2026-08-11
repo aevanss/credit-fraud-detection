@@ -9,5 +9,6 @@ I want to find credit fraud from this dataset. Working through this because of t
 ## Data
 Source: 
 Not included in this repo (150MB+, gitignored) — download and place at `data/raw/creditcard.csv`.
+Class imbalance of ~.17%, naive accuracy is misleading
 
 ## Setup
