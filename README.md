@@ -30,6 +30,7 @@ This project trains and compares a logistic regression baseline against a thresh
 
 ## Project Structure
 
+```
 credit_fraud/
 ├── data/raw/ # not tracked — see Setup
 ├── notebooks/
@@ -39,6 +40,7 @@ credit_fraud/
 ├── requirements.txt
 ├── SETUP_NOTES.md # environment setup + troubleshooting log
 └── README.md
+```
 
 ## Setup
 
